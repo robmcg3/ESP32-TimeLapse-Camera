@@ -1,4 +1,3 @@
-test-repo
+ESP 32 Time Lapse Camera
 =========
-
-test repository for data analysts toolkit
+updated name to match contents
