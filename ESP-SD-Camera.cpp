@@ -1,4 +1,3 @@
-233
 /*
   ESP32 CAM Camera with MicroSD storage
   esp32cam-microsd.ino
